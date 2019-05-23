@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Sobre elProyecto
 permalink: /about/
 ---
 
-Some information about you!
+Celular Whatsapp: +5493815933506
+### Direccón 
 
-### More Information
+Corrientes 415 piso:1 Depto:3
 
-A place to include any other types of information that you'd like to include about yourself.
+###  Contacto Email
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[avilaroman@gmail.com](mailto:avilaroman@gmail.com)
